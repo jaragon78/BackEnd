@@ -37,7 +37,7 @@ import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.ResponseBody;
 import org.springframework.web.bind.annotation.RestController;
 
-@CrossOrigin(origins = "*", maxAge = 3600)
+@CrossOrigin //(origins = "*", maxAge = 3600)
 /* "https://hosting-argprg.web.app", maxAge = 3600)*/
 @RestController
 @RequiredArgsConstructor
