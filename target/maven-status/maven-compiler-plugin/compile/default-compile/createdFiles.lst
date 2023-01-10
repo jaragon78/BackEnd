@@ -10,6 +10,7 @@ com\argentinaPrograma\Portfolio\Model\ERole.class
 com\argentinaPrograma\Portfolio\Service\PersonaService.class
 com\argentinaPrograma\Portfolio\Controller\TecnologiaController.class
 com\argentinaPrograma\Portfolio\Model\SignupRequest.class
+com\argentinaPrograma\Portfolio\WebConfig$1.class
 com\argentinaPrograma\Portfolio\Controller\Seguridad\AuthEntryPointJwt.class
 com\argentinaPrograma\Portfolio\Service\IPersonaService.class
 com\argentinaPrograma\Portfolio\Model\Role.class
