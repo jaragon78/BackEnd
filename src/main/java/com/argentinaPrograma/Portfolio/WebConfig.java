@@ -1,3 +1,4 @@
+/*
 package com.argentinaPrograma.Portfolio;
 
 import org.springframework.context.annotation.Bean;
@@ -52,7 +53,7 @@ public class WebConfig extends WebMvcConfigurerAdapter {
     }
 
 }
- */
+
 @Configuration
 public class WebConfig {
 
@@ -70,3 +71,4 @@ public class WebConfig {
         };
     }
 }
+*  */
