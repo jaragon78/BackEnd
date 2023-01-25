@@ -46,4 +46,3 @@ com\argentinaPrograma\Portfolio\Controller\AuthController.class
 com\argentinaPrograma\Portfolio\Service\EducacionService.class
 com\argentinaPrograma\Portfolio\Repository\EducacionRepository.class
 com\argentinaPrograma\Portfolio\Controller\ExpLaboralController.class
-com\argentinaPrograma\Portfolio\Controller\JwtUtil.class

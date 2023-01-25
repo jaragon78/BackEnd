@@ -27,7 +27,7 @@ public class ExpLaboralService implements IExpLaboralService{
     public void borrarExpLaboral(Integer id) {
         expRepo.deleteById(id);
     }
-
+    
     @Override
     public ExpLaboral buscarExpLaboral(Integer id) {
         return expRepo.findById(id).orElse(null);

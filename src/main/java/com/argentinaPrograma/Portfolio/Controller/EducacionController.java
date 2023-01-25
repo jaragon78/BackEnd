@@ -36,8 +36,8 @@ public class EducacionController {
     @DeleteMapping ("/deleteEdu/{id}")
     public void borrarEducacion(@PathVariable Integer id){
         eduServ.borrarEducacion(id);
-    }    
-
+    }         
+    
     @PutMapping ("/put/educacion")
     public void modificarEducacion (@RequestBody Educacion edu){
         eduServ.modificarEducacion(edu);
